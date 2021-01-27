@@ -1,4 +1,7 @@
 DOWNLOAD AUTOHOTKEY
+
 RUN leaguebmchat.ahk 
+
 USE NUM PAD FOR GUI AND MSGS
+
 CAN CHANGE messages.txt 
